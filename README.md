@@ -47,7 +47,7 @@
 ## 1. About The Project
 This was the first project for COMP10002 (Foundations of Algorithms) at the University of Melbourne. Input was provided by `txt` files. The <a href="#2-project-description">Project Description</a> will be below. <b> Final mark: 100% </b>
 
-Input example:
+Input Example:
 ```
 0 5 1   0 7 0   9 2 3
 0 0 6   9 0 2   4 1 0
