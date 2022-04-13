@@ -45,7 +45,7 @@
 </details>
 
 ## 1. About The Project
-This was the first project for COMP10002 (Foundations of Algorithms) at the University of Melbourne. Descriptions for various functions were provided via Grok Learning and checked against various inputs. The <a href="#project-description">Project Description</a> and <a href="#function-descriptions">Function Descriptions</a> will be below. <b> Final mark: 100% </b>
+This was the first project for COMP10002 (Foundations of Algorithms) at the University of Melbourne. Descriptions for various functions were provided via Grok Learning and checked against various inputs. The <a href="#2-project-description">Project Description</a> will be below. <b> Final mark: 100% </b>
 
 ## 2. Project Description
 ### Background
